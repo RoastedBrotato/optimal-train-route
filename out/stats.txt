@@ -1,0 +1,9 @@
+all cities connected:     yes
+lattice nodes:            7801
+tubes at start:           29852
+tubes alive (D>0.005):     486  (1.6%)
+tubes starved:            29366  (98.4%)
+network length (alive):   5,888 km
+backbone length (D>0.2):  1,861 km
+OSM rail ways inside PK:  7,857 km (sums every mapped track, so double track counts twice)
+steps: 200   res: 0.1 deg   seed: 1
